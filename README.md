@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rana10943
-- 👀 I’m interested in ...Data Analyst/Cyber Security/Cloud Developer
+- 👀 I’m currently working as Data Analyst/Data Science
 - 🌱 I’m currently learning ...adit
 - 💞️ I’m looking to collaborate on ...ibm
 - 📫 How to reach me ...go to my digital resume/ go to linkedin profile

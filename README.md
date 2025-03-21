@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rana10943
-- 👀 I’m currently working as Data Analyst/Data Science
+- 👀 I’m currently working as Ai Engineer/Analyst
 - 🌱 I’m currently learning at IIT-Madras
 - 💞️ I’m looking to collaborate on ...ibm
 - 📫 How to reach me ...go to my digital resume/ go to linkedin profile
